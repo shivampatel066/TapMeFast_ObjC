@@ -16,6 +16,9 @@
 		40F534C8239251FC00C6C59D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F534C7239251FC00C6C59D /* main.m */; };
 		40F534D2239251FC00C6C59D /* TapMeFast_ObjCTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F534D1239251FC00C6C59D /* TapMeFast_ObjCTests.m */; };
 		40F534DD239251FC00C6C59D /* TapMeFast_ObjCUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 40F534DC239251FC00C6C59D /* TapMeFast_ObjCUITests.m */; };
+		40F534EB2392522200C6C59D /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 40F534EA2392522200C6C59D /* PORKYS_.TTF */; };
+		40F534EC2392522200C6C59D /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 40F534EA2392522200C6C59D /* PORKYS_.TTF */; };
+		40F534ED2392522200C6C59D /* PORKYS_.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 40F534EA2392522200C6C59D /* PORKYS_.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +57,7 @@
 		40F534D8239251FC00C6C59D /* TapMeFast_ObjCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TapMeFast_ObjCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40F534DC239251FC00C6C59D /* TapMeFast_ObjCUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TapMeFast_ObjCUITests.m; sourceTree = "<group>"; };
 		40F534DE239251FC00C6C59D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40F534EA2392522200C6C59D /* PORKYS_.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = PORKYS_.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +119,7 @@
 				40F534C3239251FC00C6C59D /* LaunchScreen.storyboard */,
 				40F534C6239251FC00C6C59D /* Info.plist */,
 				40F534C7239251FC00C6C59D /* main.m */,
+				40F534EA2392522200C6C59D /* PORKYS_.TTF */,
 			);
 			path = TapMeFast_ObjC;
 			sourceTree = "<group>";
@@ -242,6 +247,7 @@
 			files = (
 				40F534C5239251FC00C6C59D /* LaunchScreen.storyboard in Resources */,
 				40F534C2239251FC00C6C59D /* Assets.xcassets in Resources */,
+				40F534EB2392522200C6C59D /* PORKYS_.TTF in Resources */,
 				40F534C0239251F600C6C59D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40F534EC2392522200C6C59D /* PORKYS_.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +264,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40F534ED2392522200C6C59D /* PORKYS_.TTF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
